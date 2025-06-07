@@ -16,17 +16,16 @@ My research focuses on deep learning for medical image analysis. During my under
 ## 💻 Research Projects
 
 **1. DDPM-enhanced nnU-Net**  ([Code](https://github.com/WeiJiaFiona/Competition_diff_nnUNet.git))
-*Top 5% Award, National Biomedical Engineering Competition*  
+- *Top 5% Award, National Biomedical Engineering Competition*  
 - Semi-supervised learning for pseudo labels completion
 - Latent conditional diffusion to synthesize more small tumor samples
 - Universal and accurate segmentation of HCC tumors enabled by the methods above
 
 
-**2. FACE: Fully Automated Condylar Remodeling Evaluation**  ([Code](https://github.com/WeiJiaFiona/JoD_Paper_Fully_Automated_Condylar_Remodeling_Evaluation)  [Paper](https://www.sciencedirect.com/science/article/pii/S0300571225002635)) 
+**2. FACE: Fully Automated Condylar Remodeling Evaluation**  ([Code](https://github.com/WeiJiaFiona/JoD_Paper_Fully_Automated_Condylar_Remodeling_Evaluation))  ([Paper](https://www.sciencedirect.com/science/article/pii/S0300571225002635)) 
 - *First-author publication in Journal of Dentistry – Digital Dentistry special issue*  
-- Landmark-guided reproducible segmentation + mesh registration to achieve fully automated prognosis 
-- First-author paper accepted in *Journal of Dentistry*  
-
+- Technical highlights: Landmark-guided reproducible segmentation + mesh registration to achieve fully automated prognosis
+- Improve the efficiency by 150x for automated prognosis 
 
 
 **3. MRI Full-Chain Processing**  ([Code](https://github.com/WeiJiaFiona/5T-MRI-reconstruction-and-universal-segmentation.git))
@@ -35,10 +34,14 @@ My research focuses on deep learning for medical image analysis. During my under
 - Digital twins for virtual surgical planning : nnU-Net based segmentation for 52 brain + 17 maxillofacial regions.  
 
 **4. UniMeLoDy: Universal Medical Landmark Detection across Dimensions and Modalities**  ([Code](https://github.com/WeiJiaFiona/UniMeLoDy-Universal-Medical-Landmark-Detection-across-CT-and-X-ray.git))
-- Dimension-free transformer and prototype learning for cross-modal landmark detection in CT/X-ray  
+- Dimension-free transformer to bridge the dimension gap
+- Prototypical network to encode representative landmark features
+- Landmark prototype alignment to facilitate cross-modal knowledge fusion
+- Centering and sharpening to avoid model collapse
+- Masked modeling for prototype global relation mining
 
 
-**5. More Research**
+**5. More Research on Medical Image Analysis**
 - available at [GitHub Repo](https://github.com/WeiJiaFiona?tab=repositories)
 
 ## 📫 Contact

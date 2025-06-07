@@ -13,7 +13,7 @@ My research focuses on deep learning for medical image analysis. During my under
 - Computer-aided diagnosis: tumor segmentation, fully automated prognosis, digital twins for virtual surgical planning.
 - Embedding imaging physics and pathology priors to enhance algorithm interpretability and efficiency.
 
-## 🧪 Research Projects
+## 💻 Research Projects
 
 **1. DDPM-enhanced nnU-Net**  ([Code](https://github.com/WeiJiaFiona/Competition_diff_nnUNet.git))
 *Top 5% Award, National Biomedical Engineering Competition*  

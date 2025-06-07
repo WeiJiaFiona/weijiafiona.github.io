@@ -22,8 +22,8 @@ My research focuses on deep learning for medical image analysis. During my under
 - Universal and accurate segmentation of HCC tumors enabled by the methods above
 
 
-**2. FACE: Fully Automated Condylar Remodeling Evaluation**  ([Code](https://github.com/WeiJiaFiona/JoD_Paper_Fully_Automated_Condylar_Remodeling_Evaluation)  [Paper](https://www.sciencedirect.com/science/article/pii/S0300571225002635))
-*First-author publication in Journal of Dentistry – Digital Dentistry special issue*  
+**2. FACE: Fully Automated Condylar Remodeling Evaluation**  ([Code](https://github.com/WeiJiaFiona/JoD_Paper_Fully_Automated_Condylar_Remodeling_Evaluation)  [Paper](https://www.sciencedirect.com/science/article/pii/S0300571225002635)) 
+- *First-author publication in Journal of Dentistry – Digital Dentistry special issue*  
 - Landmark-guided reproducible segmentation + mesh registration to achieve fully automated prognosis 
 - First-author paper accepted in *Journal of Dentistry*  
 

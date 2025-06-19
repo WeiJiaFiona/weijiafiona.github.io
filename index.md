@@ -7,18 +7,18 @@ title: Jiawei's Homepage
 
 I am undergraduate student in the School of Biomedical Engineering at ShanghaiTech University, supervised by Prof. Zhiming Cui.
 
-My research focuses on deep learning for medical image analysis. During my undergraduate study, I explored segmentation, generation, reconstruction, registration, and landmark detection across modalities including CT, MRI, and X-ray. I have received a national-level competition first prize and published a first-author paper in *Journal of Dentistry*.
+My research focuses on deep learning for medical image analysis. During my undergraduate study, I explored tumor segmentation, generative model, MRI TOI-reconstruction, mesh registration, and landmark detection across modalities including CT, MRI, and X-ray. I have received a national-level competition first prize and published a first-author paper in *Journal of Dentistry (Digital Dentistry Section)*.
 
 ## 🔍 Research Interests
-- Computer-aided diagnosis: tumor segmentation, fully automated prognosis, digital twins for virtual surgical planning.
-- Embedding imaging physics and pathology priors to enhance algorithm interpretability and efficiency.
+- Computer-aided diagnosis: tumor segmentation, fully automated prognosis, digital twins for virtual surgical planning etc.
+- Embedding imaging physics and pathology priors to enhance the learning efficiency and clinical interpretability.
 
 ## 💻 Research Projects
 
 **1. DDPM-enhanced nnU-Net**  ([Code](https://github.com/WeiJiaFiona/Competition_diff_nnUNet.git))
 - **Top 5% Award, National Biomedical Engineering Competition**  
-- Semi-supervised learning for pseudo labels completion
-- Latent conditional diffusion to synthesize more small tumor samples
+- Partial label problem: semi-supervised learning for pseudo labels completion
+- Limited dataset: latent conditional diffusion to synthesize more small tumor samples
 - Universal and accurate segmentation of HCC tumors enabled by the methods above
 
 
